@@ -8,5 +8,5 @@ What we found out was the Dodgers had the highest probably of winning at home
 
 
 The website I used to get this information was https://data.fivethirtyeight.com/ I chose 2021 MLB predictions 
-I used google sheets for this assignment for the analyze
+I used google sheets for this assignment for the analyze.
 To upload the picture to git hub I used two ways which was a website called "imgur upload" and just draging the the pdf to github
